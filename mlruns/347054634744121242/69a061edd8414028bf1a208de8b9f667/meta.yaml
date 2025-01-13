@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/347054634744121242/69a061edd8414028bf1a208de8b9f667/artifacts
+end_time: 1736787805068
+entry_point_name: ''
+experiment_id: '347054634744121242'
+lifecycle_stage: active
+run_id: 69a061edd8414028bf1a208de8b9f667
+run_name: xgboost_grid_search
+run_uuid: 69a061edd8414028bf1a208de8b9f667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736787706258
+status: 3
+tags: []
+user_id: tassi
